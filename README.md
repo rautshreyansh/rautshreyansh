@@ -78,11 +78,11 @@
 </div>
 
 ###
-<!-- <h3 align="left">*_* Github Stats</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rautshreyansh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rautshreyansh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div> -->
+ <h3 align="left">*_* Github Streak Stats</h3>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=rautshreyansh&theme=nightowl&hide_border=true&cache_seconds=86400" alt="rautshreyansh's GitHub Streak" width="49%" />
+</p>
+
 
 ###
 <h3 align="left">*_* Graph [Pacman]</h3>
@@ -111,5 +111,10 @@
 </div>
 
 </div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
+</div>
+
 
 ###

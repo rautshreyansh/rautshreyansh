@@ -98,7 +98,7 @@
 
 ###
 <div>
-  <h3 align="left">*_* Let's Connect</h3>
+  <h3 align="left">*_* Let's Connect </h3>
 
 
 <div align="center">

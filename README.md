@@ -21,7 +21,7 @@
 
 ###
 
-<h3 align="left">*_* Tech Stacks</h3>
+<h3 align="left">*_* Tech Stacks </h3>
 
 ###
 
